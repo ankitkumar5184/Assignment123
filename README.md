@@ -4,3 +4,5 @@
 # After i created Pages packages where i created Signup and Signin page where the login credentials are passed through xls file.
 # After i created Addtocart class where i added one product in the cart.
 #In the Test packages i Cretaed separate class for separate pages and called to method.
+
+#Issue is that project is not running properly.
